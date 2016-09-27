@@ -19,6 +19,14 @@ namespace W1D1
             string myString = "Hello, World";
 
             Console.WriteLine("Columbus sailed the world in " + myInteger);
+
+            Console.WriteLine("It is " + learningBools + " that I have a dog at home");
+
+            Console.WriteLine("Today is " + myString2);
+
+            Console.WriteLine("I spent $" + myDouble + " on a cheesburger");
+
+            Console.WriteLine(myString1 + " marks the spot.");
             Console.ReadLine();
         }
     }
