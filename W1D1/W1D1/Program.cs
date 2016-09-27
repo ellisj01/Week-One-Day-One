@@ -26,6 +26,15 @@ namespace W1D1
 
             Console.WriteLine("I spent $" + myDouble + " on a cheesburger");
 
+            //adventurer mode
+
+            string[] = new string[4] { "1984", "Wealth of Nations", "The Art of War", "C: A Programming Language" };
+
+            var person = new { firstname = "Justin", lastname = "Ellis", age = "23", nationality = "USA" };
+
+
+                
+
             Console.WriteLine(myString1 + " marks the spot.");
             Console.ReadLine();
         }
